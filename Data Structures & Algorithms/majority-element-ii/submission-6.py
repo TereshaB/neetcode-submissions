@@ -1,4 +1,4 @@
-# Optimized soln O(1)space
+# Optimized soln O(1)space O(n) time 
             
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
